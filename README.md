@@ -18,7 +18,6 @@
 
 - `index.html` - 主网页
 - `README.md` - 项目说明文档
-  <title>超自然行动组专属商城</title>
   <style>
     * {
       margin: 0;
